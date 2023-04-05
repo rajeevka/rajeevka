@@ -29,7 +29,7 @@
 
 <!-- contact me -->
 <details>
- <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Contact me ....</summary>
+ 
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
@@ -40,7 +40,7 @@
          alt="gsedh" height="30"/></a>
       <a href="" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
-         alt="Noah" height="30"/></a>
+         alt="dsgbvs" height="30"/></a>
       <a href="mailto:rke39412@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="fgbbfgv" height="30"/></a>
