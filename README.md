@@ -1,5 +1,5 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=rajeevka)
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Jacob Colvin</h1>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Rajeev Kumar</h1>
 
  
 # Hello!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
@@ -35,20 +35,20 @@
     <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/noahnirmal/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/rajeev-kumar21/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="Noah" height="30"/></a>
+         alt="gsedh" height="30"/></a>
       <a href="" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="Noah" height="30"/></a>
-      <a href="mailto:Noah-171103@gmail.com" target="blank"><img align="center"
+      <a href="mailto:rke39412@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Noah" height="30"/></a>
+         alt="fgbbfgv" height="30"/></a>
     </p>
   <p align="center">
       <a href="" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="Noah" height="30"/></a>
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=&logoColor=white"
+         alt="rajeev" height="30"/></a>
       <!-- <a href="" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="Noah" height="30"/></a> -->
@@ -104,14 +104,7 @@
 
 
 
-<h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
- 
-  <a href="https://vercel.com/" target="_blank">
-    <img src="https://img.shields.io/badge/vercel-00C7B7.svg?style=for-the-badge&logo=vercel&logoColor=black" alt="firebase"/>
-  </a>
 
-</p>
 
 
 <h3 align="center">Version Control & CI/CD</h3>
@@ -180,9 +173,6 @@
  
  
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
 
-Credit: [Noah Nirmal](https://github.com/rajeevka)
+Credit: [Rajeev Kumar](https://github.com/rajeevka)
 
